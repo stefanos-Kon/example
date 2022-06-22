@@ -1,4 +1,4 @@
 # example
 example git course
-edit to see the changes
+Edit to see the changes
 
